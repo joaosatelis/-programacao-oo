@@ -9,9 +9,9 @@ public class Main {
         ContaSalario cs = new ContaSalario("Carlos", 1200);
 
         // Operações bancárias
-        cc.depositar(200);
-        cp.sacar(100);
-        cs.transferir(cc, 300);
+        cc.depositar(200);        // Alice deposita
+        cp.sacar(100);            // Bob saca
+        cs.transferir(cc, 300);   // Carlos transfere para Alice
 
         // Aplicando juros diários
         cc.aplicarJurosDiarios();

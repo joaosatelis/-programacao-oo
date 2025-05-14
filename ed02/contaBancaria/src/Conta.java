@@ -1,5 +1,5 @@
 /**
- * Classer representando uma conta bancária genérica.
+ * Classe abstrata que representa uma conta bancária genérica.
  */
 public abstract class Conta {
     protected String cliente;
@@ -16,8 +16,8 @@ public abstract class Conta {
     }
 
     /**
-     * Deposito de um valor na conta.
-     * @param valor o valor a ser depositado na conta
+     * Deposita um valor na conta.
+     * @param valor o valor a ser depositado
      */
     public void depositar(double valor) {
         if (valor > 0) {
@@ -36,7 +36,7 @@ public abstract class Conta {
     }
 
     /**
-     * Transferência de um valor para outra conta.
+     * Transfere um valor para outra conta.
      * @param destino conta destino
      * @param valor valor a transferir
      */
@@ -56,12 +56,12 @@ public abstract class Conta {
     }
 
     /**
-     * Imprime o extrato da conta
+     * Imprime o extrato da conta (deve ser implementado pelas subclasses).
      */
     public abstract void imprimirExtrato();
 
     /**
-     * Aplicacao dos juros diários
+     * Aplica os juros diários (deve ser implementado pelas subclasses).
      */
     public abstract void aplicarJurosDiarios();
 }
