@@ -3,7 +3,7 @@
  * no sistema de folha de pagamento. Ela define atributos comuns e um método
  * abstrato para cálculo de salário que deve ser implementado por suas subclasses.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
