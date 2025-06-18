@@ -2,7 +2,7 @@
  * A classe ProgramaImpressao é a classe principal que demonstra a criação e o uso
  * de diferentes objetos que implementam a interface Imprimivel.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
