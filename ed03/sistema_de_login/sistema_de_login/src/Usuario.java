@@ -2,7 +2,7 @@
  * A classe abstrata Usuario serve como a base para todos os tipos de usuários no sistema.
  * Ela contém atributos comuns a todos os usuários e um método para exibir o login.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
