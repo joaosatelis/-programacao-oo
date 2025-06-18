@@ -3,7 +3,7 @@
  * de diferentes tipos de usuários no sistema de login, incluindo suas funcionalidades
  * de autenticação, gerenciamento e log.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
