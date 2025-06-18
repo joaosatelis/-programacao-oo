@@ -2,7 +2,7 @@
  * A classe Administrador representa um usuário com privilégios administrativos.
  * Implementa as interfaces Autenticavel, Gerenciavel e Logavel.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
