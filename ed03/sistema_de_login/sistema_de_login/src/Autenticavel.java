@@ -2,7 +2,7 @@
  * A interface Autenticavel define o comportamento de um objeto que pode ser autenticado.
  * Classes que implementam esta interface devem fornecer sua própria lógica de autenticação.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
