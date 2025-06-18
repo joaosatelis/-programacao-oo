@@ -3,7 +3,7 @@
  * Qualquer classe que implementa esta interface deve fornecer sua própria
  * lógica para exibir seus dados.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
