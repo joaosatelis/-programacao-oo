@@ -2,7 +2,7 @@
  * A classe RelatorioPDF representa um relatório em formato PDF imprimível.
  * Implementa a interface Imprimivel para exibir o nome do autor e o número total de páginas.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
