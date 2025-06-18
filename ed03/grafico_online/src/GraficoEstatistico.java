@@ -2,7 +2,7 @@
  * A classe GraficoEstatistico representa um gráfico estatístico imprimível.
  * Implementa a interface Imprimivel para exibir seu tipo de gráfico e título.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
