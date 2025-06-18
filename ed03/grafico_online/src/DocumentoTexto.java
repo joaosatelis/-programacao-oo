@@ -2,7 +2,7 @@
  * A classe DocumentoTexto representa um documento textual imprimível.
  * Implementa a interface Imprimivel para exibir seu título e conteúdo.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
