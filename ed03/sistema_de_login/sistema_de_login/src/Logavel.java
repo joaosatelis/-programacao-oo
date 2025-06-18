@@ -1,7 +1,7 @@
 /**
  * A interface Logavel define o comportamento de um objeto que pode registrar logs de auditoria.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
