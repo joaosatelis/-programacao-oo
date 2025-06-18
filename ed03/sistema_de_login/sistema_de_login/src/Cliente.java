@@ -2,7 +2,7 @@
  * A classe Cliente representa um usuário padrão do sistema.
  * Implementa apenas a interface Autenticavel com uma regra de senha específica.
  *
- * @author Seu Nome
+ * @author João
  * @version 1.0
  * @since 2025-05-28
  */
